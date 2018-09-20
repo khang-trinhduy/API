@@ -18,13 +18,13 @@ namespace ProvinceApi.Controllers
             _context = context;
         }
 
-        [HttpGet("{GetAll}")]
+        [HttpGet]
         public IEnumerable<Province> GetProvinces()
         {
             return _context.Province;
         }
 
-        [HttpGet("Province/{id}")]
+        [HttpGet("Province/{id}",Name = "GetProvince")]
         public async Task<IActionResult> GetProvince(int id)
         {
             if (!ModelState.IsValid)
