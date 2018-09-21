@@ -22,3 +22,5 @@ C:\Users\trinh\source\repos\ProvinceApi\ProvinceApi\obj\Debug\netcoreapp2.1\Razo
 C:\Users\trinh\source\repos\ProvinceApi\ProvinceApi\obj\Debug\netcoreapp2.1\ProvinceApi.RazorTargetAssemblyInfo.cs
 C:\Users\trinh\source\repos\ProvinceApi\ProvinceApi\obj\Debug\netcoreapp2.1\ProvinceApi.Views.pdb
 C:\Users\trinh\source\repos\ProvinceApi\ProvinceApi\obj\Debug\netcoreapp2.1\ProvinceApi.csproj.CopyComplete
+C:\Users\trinh\source\repos\ProvinceApi\ProvinceApi\bin\Debug\netcoreapp2.1\ProvinceApi.xml
+C:\Users\trinh\source\repos\ProvinceApi\ProvinceApi\obj\Debug\netcoreapp2.1\ProvinceApi.xml
