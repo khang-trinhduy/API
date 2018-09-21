@@ -139,6 +139,8 @@ namespace ProvinceApi.Controllers
         /// </remarks>
         /// <response code="200">Success</response>
         /// <response code="500">Unexpected error</response>
+        /// <response code="204">The server has successfully fulfilled the request and that there is no additional content to send in the response payload body.</response>
+        [ProducesResponseType(204)]
         [HttpPut("Province/{id}")]
         [ProducesResponseType(200)]
         [ProducesResponseType(500)]
